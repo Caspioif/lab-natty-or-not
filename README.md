@@ -5,7 +5,9 @@ Uma breve síntese sobre a nossa atual realidade e as formas alternativas atrela
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização e revisão;
+
 IA Generativa HeyGen para sintetização de voz e geração de avatar virtual;
+
 IA Generativa HeyGen para "edição" de vídeo.
 
 ## 🧐 Processo de Criação
@@ -13,6 +15,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo, além das ideias f
 
 ## 🚀 Resultados
 O vídeo em questão retrata a nova vida na qual passaremos a estar inseridos. Consiste na implementação das IAs a fim de facilitar, e não substituir, o papel fundamental do ser humano.
+
 https://app.heygen.com/share/3425e400f98b4e33974cca7506ea27a9
 
 ## 💭 Reflexão (Opcional)
