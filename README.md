@@ -4,9 +4,11 @@
 Uma breve síntese sobre a nossa atual realidade e as formas alternativas atreladas a ela.
 
 ## 🤖 Tecnologias Utilizadas
-• IA Generativa ChatGPT • Roteirização e revisão
-• IA Generativa HeyGen • Sintetização de voz e geração de avatar virtual
-• IA Generativa HeyGen • "Edição" de vídeo
+• IA Generativa ChatGPT para roteirização e revisão;
+
+• IA Generativa HeyGen para sintetização de voz e geração de avatar virtual;
+
+• IA Generativa HeyGen para "edição" de vídeo.
 
 ## 🧐 Processo de Criação
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo, além das ideias fornecidas pelo mesmo. O "HeyGen" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística e realista ao vídeo. Vale ressaltar que a montagem de elementos na composição (edição), foi conduzida pelo próprio também.
